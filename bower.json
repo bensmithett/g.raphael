@@ -1,0 +1,12 @@
+{
+  "name": "g.raphael",
+  "version": "0.5.1",
+  "main": "g.raphael.js",
+  "ignore": [
+    "docs",
+    "test",
+    "g.raphael.json",
+    "README.markdown",
+    "roadmap.md"
+  ]
+}
